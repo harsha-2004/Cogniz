@@ -1,2 +1,0 @@
-# Cognizance
-Task-1
